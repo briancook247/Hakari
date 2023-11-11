@@ -1,0 +1,4 @@
+text_data,time_series_data,label
+"test sequence 1",7,0
+"test sequence 2",8,1
+"test sequence 3",9,0

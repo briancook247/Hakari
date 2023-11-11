@@ -1,0 +1,7 @@
+text_data,time_series_data,label
+"hello world",1,0
+"how are you",2,1
+"machine learning",3,0
+"recurrent neural network",4,1
+"sample text",5,0
+"another example",6,1
